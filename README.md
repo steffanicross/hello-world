@@ -1,2 +1,4 @@
 # hello-world
-my first repository
+
+Hello!
+Steff here, I'm into programming, parenting, and yoga(to keep me sane).
